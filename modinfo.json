@@ -1,0 +1,16 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "yc_cdda_mod",
+    "name": "yc的CDDA mod",
+    "authors": [
+      "Yc"
+    ],
+    "description": "YC自制的CDDA mod",
+    "dependencies": [
+      "dda",
+      "adv_gear"
+    ]
+  }
+]
+

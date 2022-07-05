@@ -1,0 +1,58 @@
+[
+  {
+    "type": "profession",
+    "id": "yc_saver",
+    "name": "救世主",
+    "description": "大灾变开始之前，Z国就已经发现了端倪。现在，你作为全世界最先进科技的成果，是时候改变世界了。",
+    "points": 100,
+    "CBMs": [
+      "bio_weight",
+      "bio_ups",
+      "bio_armor_eyes",
+      "bio_armor_head",
+      "bio_armor_torso",
+      "bio_armor_arms",
+      "bio_armor_legs",
+      "bio_batteries",
+      "bio_razors",
+      "bio_sunglasses",
+      "bio_ears",
+      "bio_speed",
+      "bio_str_enhancer",
+      "bio_dex_enhancer",
+      "bio_tattoo_led",
+      "bio_eye_optic",
+      "bio_targeting",
+      "bio_eye_enhancer",
+      "bio_carbon",
+      "bio_power_storage_mkII"
+    ],
+    "items" : {
+      "both": [
+        "nano_shield",
+        "nano_storage",
+        "nano_holster",
+        "nano_sheath",
+        "nano_mag_holder",
+        "nanosuit",
+        "nano_container",
+        "nano_blade",
+        "nano_dagger",
+        "nano_shredder",
+        "nanite_multitool_small",
+        "nano_wire_mag",
+        "nano_dart_mag",
+        "nano_blade_mag",
+        "bio_nanite_spawning",
+        "nanofactory_4"
+      ],
+      "male": [
+        "briefs"
+      ],
+      "female": [
+        "bra",
+        "panties"
+      ]
+    }
+  }
+]
